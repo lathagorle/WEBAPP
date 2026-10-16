@@ -145,7 +145,7 @@ namespace DemoAngularCrudApi.Controllers
                 _context.Customers.Remove(customer);
                 await _context.SaveChangesAsync();
             }
-            catch(Exception ex)
+            catch(Exception)
             {
                 return NotFound();
             }
