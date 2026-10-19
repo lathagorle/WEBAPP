@@ -6631,11 +6631,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Administrator\\Downloads\\WEBAPP\\LogicHouse\\DemoLogicAppApi\\DemoLogicAppApi.csproj",
+      "projectUniqueName": "C:\\Users\\Administrator\\Downloads\\DemoLogic\\WEBAPP\\DemoLogicAppApi\\DemoLogicAppApi.csproj",
       "projectName": "DemoLogicAppApi",
-      "projectPath": "C:\\Users\\Administrator\\Downloads\\WEBAPP\\LogicHouse\\DemoLogicAppApi\\DemoLogicAppApi.csproj",
+      "projectPath": "C:\\Users\\Administrator\\Downloads\\DemoLogic\\WEBAPP\\DemoLogicAppApi\\DemoLogicAppApi.csproj",
       "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Administrator\\Downloads\\WEBAPP\\LogicHouse\\DemoLogicAppApi\\obj\\",
+      "outputPath": "C:\\Users\\Administrator\\Downloads\\DemoLogic\\WEBAPP\\DemoLogicAppApi\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

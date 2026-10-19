@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "jzrN47RgMTM=",
+  "dgSpecHash": "pCPeT65xoSE=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Administrator\\Downloads\\WEBAPP\\LogicHouse\\DemoLogicAppApi\\DemoLogicAppApi.csproj",
+  "projectFilePath": "C:\\Users\\Administrator\\Downloads\\DemoLogic\\WEBAPP\\DemoLogicAppApi\\DemoLogicAppApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Administrator\\.nuget\\packages\\humanizer\\2.14.1\\humanizer.2.14.1.nupkg.sha512",
     "C:\\Users\\Administrator\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
